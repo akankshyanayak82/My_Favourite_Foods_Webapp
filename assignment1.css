@@ -1,0 +1,46 @@
+html{
+    scroll-behavior: smooth;
+}
+#k{
+    background: linear-gradient(90deg,rgb(149, 73, 211),  rgb(208, 99, 170), rgb(212, 102, 165));
+}
+
+#ul1{
+    padding: 0px;
+}
+
+#ul1 li{
+    display: inline-block;
+    padding: 14px 16px;
+    color: whitesmoke;
+}
+
+#ul1 li:hover{
+    background-color:  rgb(230, 82, 208);
+    cursor: pointer;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(109, 190, 227);
+    margin: 0px;
+    margin-top: -20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+
+img{
+    width: 300px;
+    height: 300px;
+    display:block;
+    margin: 0px auto;
+}
+
+p{
+    color: aliceblue;
+    text-align: center;
+}
